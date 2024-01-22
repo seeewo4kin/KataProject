@@ -1,6 +1,7 @@
 package jm.task.core.jdbc.dao;
 
 import jm.task.core.jdbc.model.User;
+import org.hibernate.Session;
 
 import java.util.List;
 
